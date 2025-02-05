@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyMF7vva5Zip6CcxoU0c6VAc",
+      "authorship_tag": "ABX9TyP9CxLcpd/ZLm4osqxdw/8K",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -25,15 +25,6 @@
       "source": [
         "<a href=\"https://colab.research.google.com/github/assiakhader/python-maths-for-engineering-physics/blob/main/Normal%20Variable%20Simulation\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
-    },
-    {
-      "cell_type": "code",
-      "execution_count": null,
-      "metadata": {
-        "id": "2Vc0C1iZ6GlR"
-      },
-      "outputs": [],
-      "source": []
     },
     {
       "cell_type": "code",
